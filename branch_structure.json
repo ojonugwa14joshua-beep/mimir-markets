@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-412-test-agents-cover-research-gateway-budget",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-412-test-agents-cover-research-gateway-budget": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-412-test-agents-cover-research-gateway-budget",
+    "origin"
+  ]
+}
